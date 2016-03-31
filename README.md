@@ -13,4 +13,4 @@
 ### left and right arrow key for moving striker left and right resp. ###
 
 
-\hyperref {Play Game Here} {''http://amanvar.github.io/Carrom-Board-using-webGl-canvas/aman/index.html''}  for implemented game.
+\href{http://amanvar.github.io/Carrom-Board-using-webGl-canvas/aman/index.html}{Play Game Here}   for implemented game.
