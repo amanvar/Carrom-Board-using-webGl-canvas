@@ -1,0 +1,9 @@
+
+
+for player view press p
+for player coin press c
+for top view press t
+
+
+speed use w and s 
+
